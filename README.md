@@ -21,7 +21,7 @@ Realizado a partir del tutorial de **Ania Kubów** que puedes ver [aquí](https:
 * **CSS**.
 
 ## Líneas futuras
-* Añadir dificultad con velocidad variable.
+* Añadir dificultad con velocidad variable (modificación del *setTimeout*).
 * Añadir dificultad con espacio entre obstáculos variable.
 
 ## Autor
