@@ -3,7 +3,7 @@ Mítico juego del FLAPPY BIRD con HTML, CSS y JAVASCRIPT.
 Realizado a partir del tutorial de **Ania Kubów** que puedes ver [aquí](https://www.youtube.com/watch?v=gxHcW84izz0).
 
 ## Web
-[Jugar a FLAPPY BIRD]()
+[Jugar a FLAPPY BIRD](https://javimontoto.github.io/FlappyBird/)
 
 ## Características
 * Click con el botón izquierdo o barra espaciadora para hacer volar el pajarillo.
